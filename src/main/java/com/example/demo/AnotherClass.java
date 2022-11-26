@@ -1,2 +1,4 @@
-package com.example.demo;public class AnotherClass {
+package com.example.demo;
+
+public class AnotherClass {
 }
